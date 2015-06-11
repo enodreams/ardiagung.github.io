@@ -1,0 +1,29 @@
+body{
+	background-image:url(images/landscape-photography.jpg);
+	background-size:cover;
+	font-family:Segoe UI,Open Sans,Droid Sans,Segoe UI;
+}
+.bio{
+	width:600px;
+	height:200px;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin:auto;
+	text-align:center;
+}
+h1,h2{
+	font-weight:100;
+}
+h2{
+	font-size:15px;
+}
+.social-links{margin-top:50px;}
+a{
+	color:#F78520;
+	text-decoration:none;
+}
+a:hover{text-decoration:underline}
+.fa{margin:0 10px;}
